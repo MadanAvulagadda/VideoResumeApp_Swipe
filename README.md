@@ -1,6 +1,6 @@
 # VideoResumeApp_Swipe
-Introducing Our Video Resume Job App – Built with SwiftUI 📱
-We’re reimagining how talent meets opportunity — with video resumes and swipe-based navigation, inspired by modern, engaging content formats.
+Introducing Video Resume Job App – Built with SwiftUI 📱
+Reimagining how talent meets opportunity — with video resumes and swipe-based navigation, inspired by modern, engaging content formats.
 
 🔑 Key Features:
 🎬 Video Resumes: Candidates showcase their personality, skills & confidence through short intro videos.
